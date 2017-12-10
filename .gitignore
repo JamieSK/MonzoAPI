@@ -1,0 +1,4 @@
+/node_modules
+public/api_keys.js
+public/transactions
+public/currentTransactions

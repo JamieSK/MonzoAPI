@@ -1,0 +1,14 @@
+#line-graph {
+  display: inline-block;
+  width: 49vw;
+}
+
+#pie-chart {
+  display: inline-block;
+  width: 49vw;
+}
+
+#map {
+  height: 49vh;
+  width: 100vw;
+}
